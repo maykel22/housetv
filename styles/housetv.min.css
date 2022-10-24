@@ -954,9 +954,7 @@ transition: all .2s ease-in-out
     border-radius: 50%;
     border: 8px solid var(--primary-color);
     color: #fff;
-    background-color: $(
-        keycolor
-    );
+    background-color: var(--red);
 display: flex;
 justify-content: center;
 align-items: center
